@@ -1,0 +1,33 @@
+body{
+
+    background-image: url("wp1980779.jpg");
+   
+} 
+
+h1{
+        color:aqua;
+        text-align: c;
+        background-color: bisque;
+   
+    color: rgba(7, 20, 11, 0.501);
+    font-size:x-large large;
+    font-style: arial;
+}
+    
+
+img{
+   
+    width: 400px;
+    height: 400px;
+}
+
+.ok {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  h4{
+
+    color: blueviolet;
+  }
