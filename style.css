@@ -1,17 +1,20 @@
 body{
 
     background-image: url("wp1980779.jpg");
+    background-size: cover;
    
 } 
 
 h1{
-        color:aqua;
+        color:white;
         text-align: c;
-        background-color: bisque;
    
-    color: rgba(7, 20, 11, 0.501);
+    color: white;
     font-size:x-large large;
     font-style: arial;
+}
+p{
+    color: white;
 }
     
 
