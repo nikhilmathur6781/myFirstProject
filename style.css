@@ -34,3 +34,8 @@ img{
 
     color: blueviolet;
   }
+
+  table, th, td {
+    border: 1px solid gray;
+    color: white;
+  }
